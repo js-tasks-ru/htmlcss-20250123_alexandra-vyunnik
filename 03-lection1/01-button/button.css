@@ -17,7 +17,7 @@
     cursor: pointer;
 }
 
-.button__primary:hover {
+.button_primary:hover {
     background-color: #2342C0;
     border: none;
     color: var(--white);
