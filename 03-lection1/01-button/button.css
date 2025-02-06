@@ -37,13 +37,6 @@
 }
 
 
-.button__secondary_disabled:disabled {
-    background-color: var(--purple);
-    border: none;
-    color: var(--white);
-    opacity: 0.5;
-    cursor: default;
-}
 
 .button__alternate {
     background-color: var(--white);
