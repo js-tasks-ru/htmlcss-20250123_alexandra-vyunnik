@@ -19,7 +19,6 @@
 
 .button_primary:hover {
     background-color: #2342C0;
-    border: none;
     color: var(--white);
     transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
 }
