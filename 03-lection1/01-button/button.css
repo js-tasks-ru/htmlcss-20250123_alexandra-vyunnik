@@ -24,9 +24,8 @@
 }
 
 
-.button__secondary {
+.button_secondary {
     background-color: var(--purple);
-    border: none;
     color: var(--white);
     cursor: pointer;
 }
