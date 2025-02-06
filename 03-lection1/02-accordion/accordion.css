@@ -18,7 +18,7 @@
     margin-bottom: 0;
 }
 
-p {
+.item__text {
     padding-top: 16px;
     color: var(--grey-4);
 }
