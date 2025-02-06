@@ -23,7 +23,6 @@
     transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
 }
 
-.button__primary_disabled:disabled {
     background-color: var(--blue);
     border: none;
     color: var(--white);
