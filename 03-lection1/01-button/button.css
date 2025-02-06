@@ -51,10 +51,3 @@
     color: var(--grey-4);
 }
 
-
-.button__alternate_disabled:disabled {
-    background-color: var(--white);
-    border: 1px solid var(--grey-4);
-    color: var(--grey-4);
-    opacity: 0.5;
-}
