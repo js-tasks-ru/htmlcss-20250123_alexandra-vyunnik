@@ -30,9 +30,8 @@
     cursor: pointer;
 }
 
-.button__secondary:hover {
+.button_secondary:hover {
     background-color: #5028C6;
-    border: none;
     color: var(--white);
     transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
 }
