@@ -3,7 +3,7 @@
     color: var(--black);
 }
 
-summary::webkit-details-marker {
+.item__summary::webkit-details-marker {
     display: none;
 }
 
