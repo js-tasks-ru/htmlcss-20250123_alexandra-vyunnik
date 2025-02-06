@@ -11,7 +11,7 @@
     pointer-events: none; 
     opacity: 0.5;
 }
-.button__primary {
+.button_primary {
     background-color: var(--blue);
     border: none;
     color: var(--white);
