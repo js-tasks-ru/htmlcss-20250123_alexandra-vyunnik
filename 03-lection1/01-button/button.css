@@ -23,12 +23,6 @@
     transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
 }
 
-    background-color: var(--blue);
-    border: none;
-    color: var(--white);
-    opacity: 0.5;
-    cursor: default;
-}
 
 .button__secondary {
     background-color: var(--purple);
