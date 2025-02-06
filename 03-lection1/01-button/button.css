@@ -1,6 +1,8 @@
 .button {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
+    line-height: 18px;
+    font-weight: 500;
     padding: 15px 14px;
     width: 182px;
     border-radius: 8px;
