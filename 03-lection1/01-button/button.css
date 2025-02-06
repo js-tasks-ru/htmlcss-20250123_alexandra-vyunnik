@@ -13,7 +13,6 @@
 }
 .button_primary {
     background-color: var(--blue);
-    border: none;
     color: var(--white);
     cursor: pointer;
 }
