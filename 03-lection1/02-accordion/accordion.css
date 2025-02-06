@@ -1,4 +1,4 @@
-summary {
+.item__summary {
     display: block;
     color: var(--black);
 }
