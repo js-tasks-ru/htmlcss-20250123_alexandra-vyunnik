@@ -5,6 +5,7 @@
     font-weight: 500;
     padding: 15px 14px;
     border-radius: 8px;
+    border: none;
 }
 
 .button__primary {
