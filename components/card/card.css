@@ -1,0 +1,7 @@
+.main-section__card {
+    width: 350px;
+    height: 367px;
+    border-radius: 12px;
+    background-color: var(--grey-2);
+    padding: 32px 25px;
+}
