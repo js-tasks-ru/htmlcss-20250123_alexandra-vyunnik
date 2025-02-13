@@ -1,4 +1,10 @@
 .main-section {
     background-color: #F9FAFC;
-    padding: 60px 70px;
+    padding: 68px 168px;
+}
+
+.main-section__grid {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
 }
