@@ -2,14 +2,14 @@
     border: 1px solid var(--grey-3);
     border-radius: 8px;
     text-align: center;
-    padding: 28px 36px;
+    padding: 28px 26px 36px;
     width: 100%;
     max-width: 374px;
     background-color: var(--white);
 }
 
 .calendar__title {
-    padding-bottom: 20px;
+    margin-bottom: 24px;
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 600;
