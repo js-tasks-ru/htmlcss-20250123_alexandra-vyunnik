@@ -8,7 +8,6 @@
 
 .template__footer {
     background-color: var(--grey-5);
-    height: 140px;
     text-align: center;
     font-style: normal;
     font-weight: 500;
@@ -16,6 +15,5 @@
     line-height: 18px;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    padding-top: 92px;
     color: var(--grey-3);
 }

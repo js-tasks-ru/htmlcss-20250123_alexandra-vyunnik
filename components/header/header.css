@@ -4,9 +4,4 @@
 
 .template__header {
     background-color: var(--white);
-    height: 82px;
-}
-
-.component__header {
-    padding-bottom: 24px;
 }

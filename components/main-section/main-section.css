@@ -1,7 +1,12 @@
 .main-section {
     background-color: var(--grey-5
     );
-    padding: 67px 165px;
+    padding-top: 67px;
+    padding-bottom: 67px;
+}
+
+.container {
+    margin-left: auto 0;
 }
 
 .main-section__grid {
@@ -17,5 +22,5 @@
     justify-content: center;
     gap: 56px;
     background-color: var(--grey-5);
-    padding: 36px 165px 0 0;
+    padding: 36px 0 92px 0;
 }
