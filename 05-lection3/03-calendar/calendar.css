@@ -17,6 +17,7 @@
     color: var(--blue-1);
     margin-bottom: 24px;
 }
+
 .calendar__wrapper {
     padding-bottom: 100%;
     position: relative;
@@ -31,6 +32,7 @@
     background-color: var(--white);
     display: grid;
     grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(7, 1fr);
 }
 
 .calendar__item_day {
