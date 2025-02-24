@@ -2,6 +2,6 @@
     padding:  60px 70px;
 }
 
-.template__header {
+.header_inner {
     background-color: var(--white);
 }

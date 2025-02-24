@@ -1,7 +1,6 @@
-.template__menu {
+.menu_inner {
     height: 100%;
     background-color: var(--grey-5);
-    padding: 0 0 500px 165px;
 }
 
 .menu__header {
@@ -9,8 +8,4 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 26px;
-}
-
-.menu__nav {
-    padding-right: 70px;
 }

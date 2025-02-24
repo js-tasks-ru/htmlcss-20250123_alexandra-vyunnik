@@ -5,17 +5,13 @@
     padding-bottom: 67px;
 }
 
-.container {
-    margin-left: auto 0;
-}
-
 .main-section__grid {
     display: flex;
     gap: 30px;
     flex-wrap: wrap;
 }
 
-.template__main-section {
+.main-section_inner {
     display: grid;
     grid-template-columns: auto 1fr;
     width: 100%;
