@@ -1,12 +1,13 @@
 .tooltip {
     display: inline-block;
     position: relative;
+    margin-top: 100px;
 }
 
 .tooltip__bubble {
     display: none;
     position: absolute;
-    top: calc(100% + 8px);
+    bottom: calc(100% + 8px);
     left: 50%;
     transform: translateX(-50%);
     width: 129px;
@@ -26,9 +27,9 @@
 .tooltip__bubble:before {
     content: "";
     border: 10px solid transparent;
-    border-bottom: 6px solid var(--blue);
+    border-top: 6px solid var(--blue);
     position: absolute;
-    bottom: 100%;
+    top: 100%;
     left: 50%;
     transform: translateX(-50%);
 }
