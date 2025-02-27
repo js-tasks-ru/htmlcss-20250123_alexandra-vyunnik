@@ -1,6 +1,5 @@
 .main-section {
-    background-color: var(--grey-5
-    );
+    background-color: var(--grey-5);
     padding-top: 67px;
     padding-bottom: 67px;
 }
@@ -11,7 +10,7 @@
     flex-wrap: wrap;
 }
 
-.main-section_inner {
+.main-section_inner-grid {
     display: grid;
     grid-template-columns: auto 1fr;
     width: 100%;
