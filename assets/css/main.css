@@ -5,6 +5,10 @@
 @import '../../components/main-section/main-section.css';
 @import '../../components/footer/footer.css';
 @import '../../components/card/card.css';
+@import '../../components/menu/menu.css';
+@import '../../components/component/component.css';
+@import '../../components/container/container.css';
+@import '../../04-lection2/01-histogram/histogram.css';
 @import '../../03-lection1/01-button/button.css';
 
 
@@ -25,6 +29,7 @@
     --grey-2: #DDE2E5;
     --grey-3: #ACB5BD;
     --grey-4: #495057;
+    --grey-5: #F9FAFC;
 
     --error: var(--red);
     --success: var(--blue);
@@ -43,6 +48,14 @@ a {
     text-decoration: none;
 }
 
-* {
-    font-family: 'Roboto', sans-serif;
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+    padding-left: 0;
+    color: var(--black);
 }

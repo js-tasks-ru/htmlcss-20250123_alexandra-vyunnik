@@ -7,3 +7,8 @@
 .wrapper__main {
     flex-grow: 1;
 }
+
+.wrapper_inner {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}

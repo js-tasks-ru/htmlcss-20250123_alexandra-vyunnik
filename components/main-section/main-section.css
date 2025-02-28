@@ -1,10 +1,21 @@
 .main-section {
-    background-color: #F9FAFC;
-    padding: 68px 168px;
+    background-color: var(--grey-5);
+    padding-top: 67px;
+    padding-bottom: 67px;
 }
 
 .main-section__grid {
     display: flex;
     gap: 30px;
     flex-wrap: wrap;
+}
+
+.main-section_inner-grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    width: 100%;
+    justify-content: center;
+    gap: 56px;
+    background-color: var(--grey-5);
+    padding: 36px 0 92px 0;
 }

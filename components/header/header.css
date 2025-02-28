@@ -1,3 +1,7 @@
 .header__title {
     padding:  60px 70px;
 }
+
+.header_inner {
+    background-color: var(--white);
+}
